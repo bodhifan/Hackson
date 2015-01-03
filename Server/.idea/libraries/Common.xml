@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Common">
+    <CLASSES>
+      <root url="file://E:/03 Library/Android/Common" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://E:/03 Library/Android/Common" recursive="false" />
+  </library>
+</component>
