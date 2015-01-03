@@ -17,5 +17,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Common" exported="" />
     <orderEntry type="library" name="Libaray" level="project" />
+    <orderEntry type="module" module-name="library" exported="" />
   </component>
 </module>

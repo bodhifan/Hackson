@@ -1,10 +1,14 @@
 package com.example.myapp;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+import com.lidroid.xutils.ViewUtils;
+import com.lidroid.xutils.view.annotation.ViewInject;
+import com.lidroid.xutils.view.annotation.event.OnClick;
 import com.oracle.hackson.common.DefineConfig;
 import com.oracle.hackson.common.GsonHelper;
 import com.oracle.hackson.common.HttpHelper;
@@ -21,6 +25,18 @@ public class MyActivity extends Activity implements View.OnClickListener {
     public final static String TAG = "TEST";
     Button btnGetJsonTest,persons,maplist,listbtn;
     public static String curJsonContent;
+
+    @ViewInject(R.id.button5)
+    public Button showImage;
+
+    @OnClick(R.id.button5)
+    public void showImage(View v)
+    {
+        Log.i(TAG,"button is click");
+        Intent intent = new Intent(this,ShowImage.class);
+        startActivity(intent);
+    }
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -35,6 +51,7 @@ public class MyActivity extends Activity implements View.OnClickListener {
         persons.setOnClickListener(this);
         maplist.setOnClickListener(this);
         listbtn.setOnClickListener(this);
+        ViewUtils.inject(this);
     }
 
     @Override
