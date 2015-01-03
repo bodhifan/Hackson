@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="xUtils:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/xUtils_jar</output-path>
+    <root id="archive" name="xUtils.jar">
+      <element id="module-output" name="library" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/Common/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
