@@ -6,5 +6,5 @@ package com.oracle.hackthon.config;
 public class Config {
 
     // 工作目录
-    public static String workDir =  "/sdcard/hack2son";
+    public static String workDir =  "/sdcard/hack2thon";
 }
