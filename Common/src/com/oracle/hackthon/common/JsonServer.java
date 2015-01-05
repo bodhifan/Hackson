@@ -1,6 +1,4 @@
-package com.oracle.hackson.common;
-
-import com.sun.corba.se.impl.ior.OldJIDLObjectKeyTemplate;
+package com.oracle.hackthon.common;
 
 import java.util.ArrayList;
 import java.util.HashMap;

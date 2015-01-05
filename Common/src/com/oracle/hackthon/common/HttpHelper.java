@@ -1,8 +1,7 @@
-package com.oracle.hackson.common;
+package com.oracle.hackthon.common;
 
 import java.io.*;
 import java.net.*;
-import java.util.HashMap;
 import java.util.Map;
 
 /**

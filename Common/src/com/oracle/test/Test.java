@@ -1,9 +1,7 @@
 package com.oracle.test;
 
-import com.oracle.hackson.common.*;
-
-import java.util.HashMap;
-import java.util.Map;
+import com.oracle.hackthon.common.DefineConfig;
+import com.oracle.hackthon.common.HttpHelper;
 
 /**
  * Created by bofan on 2015/1/2.

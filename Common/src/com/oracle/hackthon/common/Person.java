@@ -1,4 +1,4 @@
-package com.oracle.hackson.common;
+package com.oracle.hackthon.common;
 
 import java.io.Serializable;
 

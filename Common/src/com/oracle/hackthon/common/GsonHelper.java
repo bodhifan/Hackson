@@ -1,4 +1,4 @@
-package com.oracle.hackson.common;
+package com.oracle.hackthon.common;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
