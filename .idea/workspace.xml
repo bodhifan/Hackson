@@ -62,26 +62,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Client/src/com/oracle/hackson/app/MainActivity.java">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Client/src/com/oracle/hackthon/module/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1188" max-vertical-offset="2142">
-              <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.49846154" vertical-offset="36" max-vertical-offset="1980">
+              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyActivity.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Client/src/com/example/myapp/MyActivity.java">
+      <file leaf-file-name="BaseActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Client/src/com/oracle/hackthon/common/BaseActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25609756" vertical-offset="1875" max-vertical-offset="2592">
-              <caret line="110" column="18" selection-start-line="110" selection-start-column="18" selection-end-line="110" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -117,7 +113,7 @@
         </entry>
       </file>
       <file leaf-file-name="Config.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Client/src/com/oracle/hackson/common/Config.java">
+        <entry file="file://$PROJECT_DIR$/Client/src/com/oracle/hackthon/config/Config.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="288">
               <caret line="8" column="32" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="32" />
@@ -127,7 +123,7 @@
         </entry>
       </file>
       <file leaf-file-name="CommonUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Client/src/com/oracle/hackson/common/CommonUtils.java">
+        <entry file="file://$PROJECT_DIR$/Client/src/com/oracle/hackthon/common/CommonUtils.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="1134">
               <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
@@ -141,7 +137,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="3870" max-vertical-offset="4176">
               <caret line="252" column="7" selection-start-line="252" selection-start-column="7" selection-end-line="252" selection-end-column="9" />
-              <folding />
+              <folding>
+                <element signature="e#0#9408#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#7767#7768#0" expanded="false" />
+                <element signature="e#7831#7832#0" expanded="false" />
+                <element signature="e#7899#7900#0" expanded="false" />
+                <element signature="e#7963#7964#0" expanded="false" />
+                <element signature="e#8385#8386#0" expanded="false" />
+                <element signature="e#8436#8437#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -151,7 +156,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="3273" max-vertical-offset="3744">
               <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="e#0#8073#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#4548#4549#0" expanded="false" />
+                <element signature="e#4610#4611#0" expanded="false" />
+                <element signature="e#4654#4655#0" expanded="false" />
+                <element signature="e#4694#4695#0" expanded="false" />
+                <element signature="e#6694#6695#0" expanded="false" />
+                <element signature="e#6738#6739#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -161,7 +175,42 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="3564" max-vertical-offset="8118">
               <caret line="238" column="0" selection-start-line="238" selection-start-column="0" selection-end-line="238" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="e#0#17591#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#2179#2180#0" expanded="false" />
+                <element signature="e#2214#2215#0" expanded="false" />
+                <element signature="e#7428#7429#0" expanded="false" />
+                <element signature="e#7479#7480#0" expanded="false" />
+                <element signature="e#10257#10258#0" expanded="false" />
+                <element signature="e#10298#10299#0" expanded="false" />
+                <element signature="e#10336#10337#0" expanded="false" />
+                <element signature="e#10383#10384#0" expanded="false" />
+                <element signature="e#10419#10420#0" expanded="false" />
+                <element signature="e#10464#10465#0" expanded="false" />
+                <element signature="e#10506#10507#0" expanded="false" />
+                <element signature="e#10550#10551#0" expanded="false" />
+                <element signature="e#10598#10599#0" expanded="false" />
+                <element signature="e#10648#10649#0" expanded="false" />
+                <element signature="e#10694#10695#0" expanded="false" />
+                <element signature="e#10742#10743#0" expanded="false" />
+                <element signature="e#10774#10775#0" expanded="false" />
+                <element signature="e#10815#10816#0" expanded="false" />
+                <element signature="e#10847#10848#0" expanded="false" />
+                <element signature="e#10888#10889#0" expanded="false" />
+                <element signature="e#11459#11460#0" expanded="false" />
+                <element signature="e#11486#11487#0" expanded="false" />
+                <element signature="e#11538#11539#0" expanded="false" />
+                <element signature="e#11565#11566#0" expanded="false" />
+                <element signature="e#11617#11618#0" expanded="false" />
+                <element signature="e#11644#11645#0" expanded="false" />
+                <element signature="e#12141#12142#0" expanded="false" />
+                <element signature="e#12173#12174#0" expanded="false" />
+                <element signature="e#12223#12224#0" expanded="false" />
+                <element signature="e#12259#12260#0" expanded="false" />
+                <element signature="e#15440#15441#0" expanded="false" />
+                <element signature="e#15518#15519#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -189,8 +238,10 @@
         <option value="$PROJECT_DIR$/Client/res/layout/main.xml" />
         <option value="$PROJECT_DIR$/Client/src/com/oracle/hackson/common/IOUtils.java" />
         <option value="$PROJECT_DIR$/Client/src/com/oracle/hackson/common/CommonUtils.java" />
-        <option value="$PROJECT_DIR$/Client/src/com/oracle/hackson/app/MainActivity.java" />
         <option value="$PROJECT_DIR$/Client/src/com/example/myapp/MyActivity.java" />
+        <option value="$PROJECT_DIR$/Client/src/com/oracle/hackthon/common/BaseActivity.java" />
+        <option value="$PROJECT_DIR$/Client/src/com/oracle/hackson/app/MainActivity.java" />
+        <option value="$PROJECT_DIR$/Client/src/com/oracle/hackthon/module/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -207,8 +258,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1616" />
-    <option name="height" value="876" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -235,7 +286,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -423,11 +473,51 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
+              <option name="myItemId" value="hackthon" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hackson" />
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hackson" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hackthon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hackson" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hackthon" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -435,60 +525,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Hackson" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hackson" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Hackson" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyActivity.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -514,6 +553,7 @@
     <property name="options.lastSelected" value="preferences.keymap" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager" selected="Android Application.Client">
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -807,7 +847,7 @@
     </configuration>
     <configuration default="false" name="Client" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="Client" />
-      <option name="ACTIVITY_CLASS" value="com.oracle.hackson.app.MainActivity" />
+      <option name="ACTIVITY_CLASS" value="com.oracle.hackthon.module.MainActivity" />
       <option name="MODE" value="specific_activity" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
@@ -954,6 +994,9 @@
   <component name="StructureViewFactory">
     <option name="ACTIVE_ACTIONS" value=",SHOW_ANONYMOUS,SHOW_INTERFACES" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="be0dc8a4-8af5-41c8-a477-33990a933632" name="Default" comment="" />
@@ -963,11 +1006,13 @@
       <workItem from="1420268391667" duration="19206000" />
       <workItem from="1420303507085" duration="74000" />
       <workItem from="1420303889011" duration="32000" />
+      <workItem from="1420304355181" duration="19000" />
+      <workItem from="1420431384020" duration="243000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19312000" />
+    <option name="totallyTimeSpent" value="19574000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -990,8 +1035,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1001,14 +1046,14 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297587" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41073826" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25189188" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297587" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.80205655" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24614395" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2457356" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1143,7 +1188,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2070">
           <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1225,10 +1269,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="2520">
           <caret line="59" column="28" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
-          <folding>
-            <element signature="e#2087#2088#0" expanded="false" />
-            <element signature="e#2150#2151#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1285,7 +1325,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1300,7 +1339,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468">
           <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1361,7 +1399,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2981" max-vertical-offset="4176">
           <caret line="252" column="7" selection-start-line="252" selection-start-column="7" selection-end-line="252" selection-end-column="9" />
-          <folding />
+          <folding>
+            <element signature="e#0#9408#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#7767#7768#0" expanded="false" />
+            <element signature="e#7831#7832#0" expanded="false" />
+            <element signature="e#7899#7900#0" expanded="false" />
+            <element signature="e#7963#7964#0" expanded="false" />
+            <element signature="e#8385#8386#0" expanded="false" />
+            <element signature="e#8436#8437#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1369,7 +1416,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3273" max-vertical-offset="3744">
           <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#8073#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#4548#4549#0" expanded="false" />
+            <element signature="e#4610#4611#0" expanded="false" />
+            <element signature="e#4654#4655#0" expanded="false" />
+            <element signature="e#4694#4695#0" expanded="false" />
+            <element signature="e#6694#6695#0" expanded="false" />
+            <element signature="e#6738#6739#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1377,11 +1433,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8118">
           <caret line="238" column="0" selection-start-line="238" selection-start-column="0" selection-end-line="238" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#17591#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2179#2180#0" expanded="false" />
+            <element signature="e#2214#2215#0" expanded="false" />
+            <element signature="e#7428#7429#0" expanded="false" />
+            <element signature="e#7479#7480#0" expanded="false" />
+            <element signature="e#10257#10258#0" expanded="false" />
+            <element signature="e#10298#10299#0" expanded="false" />
+            <element signature="e#10336#10337#0" expanded="false" />
+            <element signature="e#10383#10384#0" expanded="false" />
+            <element signature="e#10419#10420#0" expanded="false" />
+            <element signature="e#10464#10465#0" expanded="false" />
+            <element signature="e#10506#10507#0" expanded="false" />
+            <element signature="e#10550#10551#0" expanded="false" />
+            <element signature="e#10598#10599#0" expanded="false" />
+            <element signature="e#10648#10649#0" expanded="false" />
+            <element signature="e#10694#10695#0" expanded="false" />
+            <element signature="e#10742#10743#0" expanded="false" />
+            <element signature="e#10774#10775#0" expanded="false" />
+            <element signature="e#10815#10816#0" expanded="false" />
+            <element signature="e#10847#10848#0" expanded="false" />
+            <element signature="e#10888#10889#0" expanded="false" />
+            <element signature="e#11459#11460#0" expanded="false" />
+            <element signature="e#11486#11487#0" expanded="false" />
+            <element signature="e#11538#11539#0" expanded="false" />
+            <element signature="e#11565#11566#0" expanded="false" />
+            <element signature="e#11617#11618#0" expanded="false" />
+            <element signature="e#11644#11645#0" expanded="false" />
+            <element signature="e#12141#12142#0" expanded="false" />
+            <element signature="e#12173#12174#0" expanded="false" />
+            <element signature="e#12223#12224#0" expanded="false" />
+            <element signature="e#12259#12260#0" expanded="false" />
+            <element signature="e#15440#15441#0" expanded="false" />
+            <element signature="e#15518#15519#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Client/src/com/oracle/hackson/common/Config.java">
+    <entry file="file://$PROJECT_DIR$/Client/src/com/oracle/hackthon/config/Config.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
           <caret line="8" column="32" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="32" />
@@ -1413,7 +1504,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Client/src/com/oracle/hackson/common/CommonUtils.java">
+    <entry file="file://$PROJECT_DIR$/Client/src/com/oracle/hackthon/common/CommonUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="627" max-vertical-offset="1332">
           <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
@@ -1421,23 +1512,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Client/src/com/oracle/hackson/app/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/Client/src/com/oracle/hackthon/common/BaseActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1188" max-vertical-offset="2142">
-          <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Client/src/com/example/myapp/MyActivity.java">
+    <entry file="file://$PROJECT_DIR$/Client/src/com/oracle/hackthon/module/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25609756" vertical-offset="1875" max-vertical-offset="2592">
-          <caret line="110" column="18" selection-start-line="110" selection-start-column="18" selection-end-line="110" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.49846154" vertical-offset="36" max-vertical-offset="1980">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>

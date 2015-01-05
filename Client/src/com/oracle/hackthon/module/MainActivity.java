@@ -1,14 +1,11 @@
-package com.oracle.hackson.app;
+package com.oracle.hackthon.module;
 
 import android.app.Activity;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
-import android.os.Environment;
 import android.provider.MediaStore;
-import android.text.format.DateFormat;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
@@ -18,20 +15,14 @@ import com.lidroid.xutils.ViewUtils;
 import com.lidroid.xutils.bitmap.BitmapDisplayConfig;
 import com.lidroid.xutils.bitmap.callback.BitmapLoadCallBack;
 import com.lidroid.xutils.bitmap.callback.BitmapLoadFrom;
-import com.lidroid.xutils.bitmap.callback.DefaultBitmapLoadCallBack;
 import com.lidroid.xutils.view.annotation.ViewInject;
 import com.lidroid.xutils.view.annotation.event.OnClick;
-import com.oracle.hackson.common.CommonUtils;
-import com.oracle.hackson.common.Config;
+import com.oracle.hackson.app.R;
+import com.oracle.hackthon.common.BaseActivity;
+import com.oracle.hackthon.common.CommonUtils;
+import com.oracle.hackthon.config.Config;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.util.Calendar;
-import java.util.Locale;
-
-public class MainActivity extends Activity {
+public class MainActivity extends BaseActivity {
 
     @ViewInject(R.id.callPhoto)
     Button btnCallPhoto;

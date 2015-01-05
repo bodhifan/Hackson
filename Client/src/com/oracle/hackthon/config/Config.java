@@ -1,4 +1,4 @@
-package com.oracle.hackson.common;
+package com.oracle.hackthon.config;
 
 /**
  * Created by bofan on 2015/1/3.
