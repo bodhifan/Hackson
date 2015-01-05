@@ -17,7 +17,7 @@ import com.lidroid.xutils.bitmap.callback.BitmapLoadCallBack;
 import com.lidroid.xutils.bitmap.callback.BitmapLoadFrom;
 import com.lidroid.xutils.view.annotation.ViewInject;
 import com.lidroid.xutils.view.annotation.event.OnClick;
-import com.oracle.hackson.app.R;
+import com.oracle.hackthon.app.R;
 import com.oracle.hackthon.common.BaseActivity;
 import com.oracle.hackthon.common.CommonUtils;
 import com.oracle.hackthon.config.Config;
