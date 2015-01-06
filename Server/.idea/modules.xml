@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Common/Common.iml" filepath="$PROJECT_DIR$/../Common/Common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/WebTest.iml" filepath="$PROJECT_DIR$/WebTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../gradledemo/gradledemo.iml" filepath="$PROJECT_DIR$/../gradledemo/gradledemo.iml" />
-      <module fileurl="file://E:/13 source code/xUtils/library/library.iml" filepath="E:/13 source code/xUtils/library/library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../ReadImage/myapp.iml" filepath="$PROJECT_DIR$/../ReadImage/myapp.iml" />
-      <module fileurl="file://E:/13 source code/xUtils/sample/sample.iml" filepath="E:/13 source code/xUtils/sample/sample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/supporttest/supporttest.iml" filepath="$PROJECT_DIR$/supporttest/supporttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server.iml" filepath="$PROJECT_DIR$/server.iml" />
     </modules>
   </component>
 </project>
