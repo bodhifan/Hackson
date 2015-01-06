@@ -89,7 +89,7 @@
     </dependencies>
 
     <build>
-        <finalName>hackthon</finalName>
+        <finalName>hackthon-server</finalName>
         <plugins>
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
