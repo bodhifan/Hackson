@@ -23,12 +23,18 @@ public class CommonUtils {
         String name = new DateFormat().format("yyyyMMdd_hhmmss", Calendar.getInstance(Locale.CHINA)).toString();
         return  name;
     }
+
+    /**
+     * 保存图片到本地
+     * @param bitmap 图片
+     * @param filePath
+     * @return
+     */
     public static boolean saveBitmap(Bitmap bitmap, String filePath)
     {
         String sdStatus = Environment.getExternalStorageState();
         if (!sdStatus.equals(Environment.MEDIA_MOUNTED)) { // 检测sd是否可用
-            Log.i("TestFile",
-                    "SD card is not avaiable/writeable right now.");
+            Log.i("TestFile", "SD card is not avaiable/writeable right now.");
             return false;
         }
         FileOutputStream b = null;
