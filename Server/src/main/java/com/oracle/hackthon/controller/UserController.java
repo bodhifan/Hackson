@@ -50,4 +50,5 @@ public class UserController {
         userRepository.delete(userRepository.findOne(userId));
         return "redirect:/";
     }
+
 }
